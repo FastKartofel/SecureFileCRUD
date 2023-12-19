@@ -7,9 +7,6 @@ SecureFileCRUD is a simple yet secure CRUD (Create, Read, Update, Delete) applic
 - **User-Specific Permissions:** Files are visible to all users, but only the creator can modify them.
 - **Protected Credentials:** User credentials are securely stored and not accessible to any user.
 
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 ### Prerequisites
 - Java
 - TomcatServer 9
